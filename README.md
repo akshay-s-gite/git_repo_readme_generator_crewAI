@@ -8,7 +8,7 @@ It accepts a GitHub repository URL and an output `.md` filename, then uses speci
 
 ## Demo
 
-- Demo URL: `YOUR_DEMO_URL_HERE`
+- Demo URL: [`repo-doc-crew.streamlit.app`](https://repo-doc-crew.streamlit.app/)
 
 ***
 
